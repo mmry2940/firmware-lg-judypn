@@ -1,0 +1,4 @@
+mcfg_sw/generic_/neo_lao_/korea/row/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/neo_lao_/korea/kt/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/neo_lao_/korea/skt/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/neo_lao_/korea/lgu/commerci/mcfg_sw.mbn

@@ -1,0 +1,1 @@
+mcfg_sw/generic_/neo_lao_/global/row/commerci/mcfg_sw.mbn
