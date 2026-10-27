@@ -1,0 +1,9 @@
+mcfg_sw/generic_/neo_lao_/na/gsm/tmo/tmo/mcfg_sw.mbn
+mcfg_sw/generic_/neo_lao_/na/gsm/att/att_open/mcfg_sw.mbn
+mcfg_sw/generic_/neo_lao_/na/gsm/att/firstnet/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/cdma/acg/acg/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/cdma/sprint/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/cdma/uscc/usc/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/cdma/verizon/hvolte/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/cdma/uscc/row/row_usc/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/na/gsm/cca/cca/mcfg_sw.mbn

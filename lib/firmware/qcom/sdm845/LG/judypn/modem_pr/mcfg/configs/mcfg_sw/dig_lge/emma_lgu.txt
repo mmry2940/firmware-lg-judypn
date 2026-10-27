@@ -1,0 +1,4 @@
+mcfg_sw/generic_/emma_lao/korea/row/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/korea/lgu/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/korea/skt/commerci/mcfg_sw.mbn
+mcfg_sw/generic_/emma_lao/korea/kt/commerci/mcfg_sw.mbn
